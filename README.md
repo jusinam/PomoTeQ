@@ -4,7 +4,7 @@ Pomodoro is a flask application that allows users to create a to do list and not
 ## Author
 * Evans Nyambane 
 * Peter Mbai
-* John Opana.
+* John Opana
 
 
 ### Pitch
@@ -76,10 +76,10 @@ No known bugs
 >>Github: [Evans Nyambane](https://github.com/DjCooGie)
 >>Email: evansonchagwa01@gmail.com
 
->>Github: [Peter](https://github.com/Peter302)
+>>Github: [Peter Mbai](https://github.com/Peter302)
 >>Email: petermbaik@gmail.com
 
->>Github: [Peter](https://github.com/johnopana)
+>>Github: [John Opana](https://github.com/johnopana)
 >>Email: johnopana@gmail.com
 
 #### License
