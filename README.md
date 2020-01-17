@@ -84,7 +84,11 @@ No known bugs
 
 #### License
 MIT
-&copy;2020 Evans Nyambane & Peter Mbai
+&copy;2020 
+
+           Evans Nyambane 
+           Peter Mbai
+           John Opana
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

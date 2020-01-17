@@ -2,7 +2,7 @@ from flask import  render_template,redirect,flash,url_for,request,abort
 from . import main
 from flask_login import login_required,current_user
 from ..models import User,Pomo
-from .forms import Pomo_Form, Update_Profile
+# from .forms import Pomo_Form, Update_Profile
 from .. import db
 
 
