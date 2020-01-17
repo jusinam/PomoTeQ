@@ -1,6 +1,7 @@
-rom flask_wtf import FlaskForm
+from flask_wtf import FlaskForm
+from wtforms.validators import Required,Email
+from ..models import User
 from wtforms import StringField, TextAreaField, SubmitField
-from wtforms.validators import DataRequired
 
 class Pomo_Form(FlaskForm):
     title = StringField('Title', validators=[DataRequired()])
